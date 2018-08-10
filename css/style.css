@@ -1,0 +1,25 @@
+.container {
+   width: 50%;
+}
+
+.form-group {
+   width: 85%;
+   margin: 20px auto;
+}
+
+.form-group label {
+   font-weight: 600; 
+}
+
+.well {
+   background-color: #e9ecef;
+   padding: 30px;
+   margin: 18px 0px;
+   border-radius: 5px;
+   text-align: center;
+   font-family: Raleway;
+}
+
+.btn-default:hover {
+   color: gray;
+}
